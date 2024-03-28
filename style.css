@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 99vw;
+    height: 80vh;
+    background: linear-gradient(90deg, #0a0908 0%, #01161e 55%, #124559 100%);
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: white;
+}
+
+.center-h1{
+    color: white;
+    text-align: center;
+}
+
+.card-roupas-ct{
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.card-camisetas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.ca{
+    padding: 10px;
+    border: solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.ca h2{
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.ca p{
+    font-size: 16px
+}
+
+.card-camisetas p{
+    color: white;
+}
+
+img{
+    width: 100px;
+}
+
+.link-extern{
+    margin-top: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+.link-extern a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 30px;
+}
+
+.card-roupas-ct-1{
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+
+.card-calcas{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.calca{
+    padding: 10px;
+    border: solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.calca:hover{
+    box-shadow: 0 0 10px 2px rgb(67, 136, 227);
+}
+
+.ca:hover{
+    box-shadow: 0 0 10px 2px rgb(67, 136, 227);
+}
+
+.calca h2{
+    margin-bottom: 10px;
+    color: white;
+}
+
+.calca p{
+    font-size: 16px
+}
+
+.card-calcas p{
+    color: white;
+}
+
+footer{
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+#icone{
+    margin-left: 10px;
+    height: 32px;
+    width: 32px;
+}
